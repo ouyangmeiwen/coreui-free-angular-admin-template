@@ -1,0 +1,10 @@
+
+cd  到制定目录
+
+components:
+ng generate component invengo-button
+ng g c invengo-button
+
+
+module:
+ng g c invengo/invengo-book

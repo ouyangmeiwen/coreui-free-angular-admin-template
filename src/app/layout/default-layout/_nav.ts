@@ -11,6 +11,18 @@ export const navItems: INavData[] = [
     }
   },
   {
+    name: 'Invengo',
+    url: '/invengo',
+    iconComponent: { name: 'cil-speedometer' },
+    children: [
+      {
+        name: 'invengo-book',
+        url: '/invengo/invengo-book',
+        icon: 'nav-icon-bullet'
+      }
+    ]
+  },
+  {
     title: true,
     name: 'Theme'
   },
