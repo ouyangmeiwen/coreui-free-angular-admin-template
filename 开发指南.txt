@@ -1,4 +1,7 @@
 
+nvm ls
+nvm use 20.17.0
+
 cd  到制定目录
 
 components:
